@@ -1,0 +1,16 @@
+*BLAOW!*...
+
+...
+
+Whew...Your life was in danger, so you did what you had to do.
+Now you just have to focus on getting out of this building. You
+take off down the hallway.
+
+Its dark out, and you can see that your flashlight is running low on
+batteries. At the end of the hallway is a four way intersection. You
+understand that you will most likely only be able to choose one hallway
+with the amount of battery left in your flashlight. You can go either:
+1. Left
+2. Straight
+3. Right
+Which way do you want to go?:
